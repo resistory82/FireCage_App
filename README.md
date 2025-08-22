@@ -4,11 +4,13 @@ Firecage dient als Offline Unerstützung für Höhere Feuerwehrführer oder Eins
 
 Version: V0.0.1
 
+[![AGPL License](https://img.shields.io/badge/license-AGPL%20v3-green.svg?style=flat-square)](http://opensource.org/licenses/AGPL-3.0)
+
 ## Funktionalität und Motivation
 
 **FireCage** wurde als Idee geboren Höheren Feuerwehrführern, Zugs- Gruppenkommandanten und Einsatzleitungen ein Tool zu bieten das schnell, effektiv und vorrangig offline verschiedenste Einsatz-Szenarien überwachen,auswerten und aufzeichnen kann.
 
-Derzeit befinden wir uns noch in der Aufbauphase und Sammeln noch Ideen und bereiten die Codebase mit den bereits bestehenden Modulen für die Production vor.
+Derzeit befinden wir uns noch in der Aufbauphase und sammeln noch Ideen und bereiten die Codebase mit den bereits bestehenden Modulen für die Production vor.
 
 Das *Primäre* Ziel von Firecage ist es beste Software für die Freiwilligen Feuerwehren in Österreich Kostenlos und Quelloffen für jeden zur Verfügung zu stellen.
 Und Jeder Kann mitanpacken. Egal ob erfahrener Programmierer oder als Feuerwehrmitglied mit tollen Ideen und Verbesserungsvorschlägen. Jeder kann seinen Teil dazu beitragen.
@@ -19,7 +21,7 @@ Zudem werden in naher Zukunft noch Testfeuerwehren gesucht die die *Alpha* Versi
 
 |           Module              | Funktionalität |  Modul Version  |      Status       |
 |-------------------------------|----------------|-----------------|-------------------|
-| Atemschutzüberwachung einfach |                |     V0.0.0      |     in Abrbeit    |
+| Atemschutzüberwachung einfach |                |     V0.0.0      |     in Arbeit     |
 
 ## Mitarbeit
 
@@ -31,6 +33,8 @@ Bitte folgende Regeln beachten:
 - Ideen sollen für die Feuerwehren in Ganz Österreich dienlich sein (nicht Bundesländer spezifisch)
 - Bei Mitarbeit im Code bitte Pullrequests mit möglichst kleinen Änderungsmengen und guter Dokumentation einreichen.
 
+Für detailiertere Informationen bitte die [CONTRIBUTING.md](./CONTRIBUTING.md) Datei öffnen.
+
 ## Zukünftig geplante Erweiterungen
 
 Derzeit sind noch keine Groben Sprünge geplant. Primäres Ziel ist es derzeit die oben genannten Module zu erweitern und zu verbessern.
@@ -38,6 +42,8 @@ Derzeit sind noch keine Groben Sprünge geplant. Primäres Ziel ist es derzeit d
 ## Opensource Lizenz
 
 Copyright (C) 2025  Stefan Lehner
+[AGPL Licence](./AGPL-3.0.md)
+[![AGPL License](https://img.shields.io/badge/license-AGPL%20v3-green.svg?style=flat-square)](http://opensource.org/licenses/AGPL-3.0)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
