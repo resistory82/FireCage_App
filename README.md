@@ -1,10 +1,10 @@
 # FireCage
 
-Firecage dient als Offline Unerstützung für Höhere Feuerwehrführer oder Einsatzleitern in stressigen Einsatz-Szenarien.
+**FireCage** dient als offline Unerstützung für Höhere Feuerwehrführer oder Einsatzleitern in stressigen Einsatz-Szenarien.
 
-Version: V0.0.1
+[![VersionNR](https://img.shields.io/badge/Version-v0.0.1-red.svg?style=for-the-badge)]
 
-[![AGPL License](https://img.shields.io/badge/license-AGPL%20v3-green.svg?style=flat-square)](http://opensource.org/licenses/AGPL-3.0)
+[![AGPL License](https://img.shields.io/badge/License-AGPL%20v3-green.svg?style=for-the-badge)](http://opensource.org/licenses/AGPL-3.0)
 
 ## Funktionalität und Motivation
 
@@ -26,24 +26,26 @@ Zudem werden in naher Zukunft noch Testfeuerwehren gesucht die die *Alpha* Versi
 ## Mitarbeit
 
 Jeder der mit Dart umgehen kann bzw. erfahrung hat kann bei diesem Projekt mitwirken. Es ist hervorzuheben das dieses Projekt Opensource ausgelegt ist.
-Auch gewünschte Erweiterungen oder Ideen können gerne von jedem eingebracht werden.
+Auch gewünschte Erweiterungen oder Ideen können gerne von jedem eingebracht werden [Mail](mailto://admin@FFSchreibersdorf.onmicrosoft.com).
 Bitte folgende Regeln beachten:
 
 - Höflicher Umgangston beim diskutieren und einreichen von Ideen
 - Ideen sollen für die Feuerwehren in Ganz Österreich dienlich sein (nicht Bundesländer spezifisch)
 - Bei Mitarbeit im Code bitte Pullrequests mit möglichst kleinen Änderungsmengen und guter Dokumentation einreichen.
 
-Für detailiertere Informationen bitte die [CONTRIBUTING.md](./CONTRIBUTING.md) Datei öffnen.
+Für detailiertere Informationen bitte die [CONTRIBUTING.md](https://github.com/resistory82/FireCage_App?tab=contributing-ov-file) Datei öffnen.
 
 ## Zukünftig geplante Erweiterungen
 
-Derzeit sind noch keine Groben Sprünge geplant. Primäres Ziel ist es derzeit die oben genannten Module zu erweitern und zu verbessern.
+Derzeit sind noch keine groben Sprünge geplant. Primäres Ziel ist es derzeit die oben genannten Module zu erweitern und zu verbessern.
 
 ## Opensource Lizenz
 
 Copyright (C) 2025  Stefan Lehner
-[AGPL Licence](./AGPL-3.0.md)
-[![AGPL License](https://img.shields.io/badge/license-AGPL%20v3-green.svg?style=flat-square)](http://opensource.org/licenses/AGPL-3.0)
+
+[AGPL Licence](https://github.com/resistory82/FireCage_App/blob/main/LICENCE.md)
+
+[![AGPL License](https://img.shields.io/badge/License-AGPL%20v3-green.svg?style=for-the-badge)](http://opensource.org/licenses/AGPL-3.0)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
