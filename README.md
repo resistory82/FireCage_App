@@ -2,9 +2,13 @@
 
 **FireCage** dient als offline Unerstützung für Höhere Feuerwehrführer oder Einsatzleitern in stressigen Einsatz-Szenarien.
 
-[![VersionNR](https://img.shields.io/badge/Version-v0.0.1-red.svg?style=for-the-badge)]
+![VersionNR](https://img.shields.io/badge/Version-v0.0.1-red.svg?style=for-the-badge)
 
 [![AGPL License](https://img.shields.io/badge/License-AGPL%20v3-green.svg?style=for-the-badge)](http://opensource.org/licenses/AGPL-3.0)
+
+![Open Issues](https://img.shields.io/github/issues/open/resistory82/FireCage_App.svg?style=for-the-badge)
+
+![Last Commit](https://img.shields.io/github/last-commit/resistory82/FireCage_App/main.svg?style=for-the-badge)
 
 ## Funktionalität und Motivation
 
@@ -26,7 +30,7 @@ Zudem werden in naher Zukunft noch Testfeuerwehren gesucht die die *Alpha* Versi
 ## Mitarbeit
 
 Jeder der mit Dart umgehen kann bzw. erfahrung hat kann bei diesem Projekt mitwirken. Es ist hervorzuheben das dieses Projekt Opensource ausgelegt ist.
-Auch gewünschte Erweiterungen oder Ideen können gerne von jedem eingebracht werden [Mail](mailto://admin@FFSchreibersdorf.onmicrosoft.com).
+Auch gewünschte Erweiterungen oder Ideen können gerne von jedem eingebracht werden [Einreichung-Mail](mailto:admin@FFSchreibersdorf.onmicrosoft.com).
 Bitte folgende Regeln beachten:
 
 - Höflicher Umgangston beim diskutieren und einreichen von Ideen
