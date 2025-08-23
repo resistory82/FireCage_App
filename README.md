@@ -6,7 +6,7 @@
 
 [![AGPL License](https://img.shields.io/badge/License-AGPL%20v3-green.svg?style=for-the-badge)](http://opensource.org/licenses/AGPL-3.0)
 
-![Open Issues](https://img.shields.io/github/issues/open/resistory82/FireCage_App.svg?style=for-the-badge)
+![Open Issues](https://img.shields.io/github/issues/resistory82/FireCage_App?style=for-the-badge)
 
 ![Last Commit](https://img.shields.io/github/last-commit/resistory82/FireCage_App/main.svg?style=for-the-badge)
 
