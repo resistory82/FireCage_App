@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:firecage_dart/project/data/models/persons.dart';
+import 'package:firecage_dart/project/views/01_personpage/Person_page.dart';
 import 'package:firecage_dart/project/global/gobal_var.dart';
 
 class NavDrawer extends StatefulWidget {

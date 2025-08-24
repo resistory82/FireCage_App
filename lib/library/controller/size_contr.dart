@@ -53,6 +53,15 @@ class SizeController{
         return (actDeviceHeight - (menubarBottomHeight + appbarHeight) ) * (percentage / 100);
     }
 
+    double clamp(double minFonstsize, double respFonsizePerc, double maxFonsize){
+
+        double resp = setWidthPerc(respFonsizePerc);
+
+        if((resp<maxFonsize) && (resp>minFonstsize))    {return resp;}
+        else if(resp>maxFonsize)                        {return maxFonsize;}
+        else                                            {return minFonstsize;}
+    }
+
 
 
 
