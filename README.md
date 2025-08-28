@@ -2,7 +2,7 @@
 
 # FireCage
 
-**FireCage** dient als offline Unerstützung für Höhere Feuerwehrführer oder Einsatzleitern in stressigen Einsatz-Szenarien.
+**FireCage** dient als offline Unterstützung für höhere Feuerwehrführer oder Einsatzleitern in stressigen Einsatz-Szenarien.
 
 ![VersionNR](https://img.shields.io/badge/Version-v0.0.1-red.svg?style=for-the-badge)
 [![AGPL License](https://img.shields.io/badge/License-AGPL%20v3-green.svg?style=for-the-badge)](http://opensource.org/licenses/AGPL-3.0)
@@ -18,7 +18,7 @@ Derzeit befinden wir uns noch in der Aufbauphase und sammeln noch Ideen und bere
 Das *Primäre* Ziel von FireCage ist es qualitativ hochwertige Software für die Freiwilligen Feuerwehren in Österreich **Kostenlos** und **Quelloffen** zur Verfügung zu stellen.
 Und jeder kann mitanpacken. Egal ob erfahrener DART / RUST Entwickler oder als Feuerwehrmitglied mit tollen Ideen und Verbesserungsvorschlägen. Jeder kann seinen Teil dazu beitragen.
 
-Zudem werden in naher Zukunft noch Testfeuerwehren gesucht welche die *Alpha* Version von **FireCage** austesten möchten.
+Zudem werden in naher Zukunft noch Testfeuerwehren gesucht, welche die *Alpha* Version von **FireCage** austesten möchten.
 
 ## Funktionen / Module
 
@@ -26,27 +26,27 @@ Zudem werden in naher Zukunft noch Testfeuerwehren gesucht welche die *Alpha* Ve
 |-------------------------------|----------------|-----------------|-------------------|
 | Atemschutzüberwachung einfach | Kleine Atemschutzüberwachung für einen Trupp (für Übungen und Leistungsbewerbe ausgelegt)         |V0.0.0|     in Arbeit   |
 | Atemschutzüberwachung mehrfach |Atemschutzüberwachung von bis zu 4 Trupps im Realeinsatz                                          |V0.0.0|     geplant     |
-| Wasserverbraucherberechnung|Berechnung von Restwasser im Fahrzeug aufgrund der angeschlossenene Verbraucher                       |V0.0.0|     geplant     |
-| Relaisleitungs auslegung|auslegung von Relaisleitungen mit Tragkraftspritzen und frei konfigurierbaren Pumpen                     |V0.0.0|     geplant     |
+| Wasserverbraucherberechnung|Berechnung von Restwasser im Fahrzeug aufgrund der angeschlossenen Verbraucher                        |V0.0.0|     geplant     |
+| Relaisleitungs-Auslegung|Auslegung von Relaisleitungen mit Tragkraftspritzen und frei konfigurierbaren Pumpen                     |V0.0.0|     geplant     |
 | Personalverwaltung lokal|                                                                                                         |V1.0.0|     aktiv       |
 | Fahrzeugverwaltung lokal|                                                                                                         |V0.0.0|     geplant     |
 | Funktagebuch            |                                                                                                         |V0.0.0|     geplant     |
 
 ## Mitarbeit
 
-Jeder der mit Dart umgehen kann bzw. erfahrung hat kann bei diesem Projekt mitwirken. Es ist hervorzuheben das dieses Projekt Opensource ausgelegt ist.
+Jeder der mit Dart umgehen kann bzw. Erfahrung hat, kann bei diesem Projekt mitwirken. Es ist hervorzuheben das dieses Projekt *Open Source* ausgeführt ist.
 Auch gewünschte Erweiterungen oder Ideen können gerne von jedem eingebracht werden [Einreichung-Mail](mailto:admin@FFSchreibersdorf.onmicrosoft.com).
 Bitte folgende Regeln beachten:
 
 - Höflicher Umgangston beim diskutieren und einreichen von Ideen
 - Ideen sollen für die Feuerwehren in ganz Österreich dienlich sein (nicht Bundesländer spezifisch)
-- Bei Mitarbeit im Code bitte Pullrequests mit möglichst kleinen Änderungsmengen und guter Dokumentation einreichen.
+- Bei Mitarbeit im Code bitte Pull Requests mit möglichst kleinen Änderungsmengen und guter Dokumentation einreichen.
 
-Für detailiertere Informationen bitte den [CONTRIBUTING.md](https://github.com/resistory82/FireCage_App?tab=contributing-ov-file) Abschnitt öffnen.
+Für detailliertere Informationen bitte den [CONTRIBUTING.md](https://github.com/resistory82/FireCage_App?tab=contributing-ov-file) Abschnitt öffnen.
 
 ## Zukünftig geplante Erweiterungen
 
-Derzeit sind noch keine groben Sprünge geplant. Primäres Ziel ist es derzeit die oben genannten Module zu implementieren und zu verbessern.
+Aktuell fokussieren wir uns darauf die oben genannten Module zu implementieren bzw. zu verbessern bis die APP voll ausgereift und einsatzbereit ist.
 
 ## Opensource Lizenz
 

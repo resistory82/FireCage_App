@@ -1,4 +1,10 @@
-# Contributing to CONTRIBUTING.md
+# Teilnahme am Projekt
+
+Als erstes, danke das ihr euch dazu entschieden habt bei diesem großartigem Projekt mitzumachen!
+
+Für die Programmierer folgt im nächsten Abschnitt, wie es der Tradition entspricht in Englisch, ein Guide wie ihr Code zu diesem Repository beitragen könnt.
+
+## Contributing to CONTRIBUTING.md as Programmer
 
 First off, thanks for taking the time to contribute!
 
@@ -13,7 +19,8 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 
 ## Table of Contents
 
-- [Contributing to CONTRIBUTING.md](#contributing-to-contributingmd)
+- [Teilnahme am Projekt](#teilnahme-am-projekt)
+  - [Contributing to CONTRIBUTING.md as Programmer](#contributing-to-contributingmd-as-programmer)
   - [Table of Contents](#table-of-contents)
   - [Code of Conduct](#code-of-conduct)
   - [I Have a Question](#i-have-a-question)
@@ -28,6 +35,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
     - [Improving The Documentation](#improving-the-documentation)
   - [Styleguides](#styleguides)
     - [Commit Messages](#commit-messages)
+    - [Styling Text](#styling-text)
   - [Join The Project Team](#join-the-project-team)
 
 ## Code of Conduct
@@ -122,5 +130,7 @@ Enhancement suggestions are tracked as [GitHub issues](/issues).
 ## Styleguides
 
 ### Commit Messages
+
+### Styling Text
 
 ## Join The Project Team
