@@ -1,6 +1,6 @@
 # FireCage
 
-![Bildbeschreibung](https://github.com/resistory82/FireCage_App/resources/FirecageBanner1280x640.png)
+![FireCage](https://github.com/resistory82/FireCage_App/blob/main/resources/FirecageBanner1280x640.png)
 
 **FireCage** dient als offline Unerstützung für Höhere Feuerwehrführer oder Einsatzleitern in stressigen Einsatz-Szenarien.
 
