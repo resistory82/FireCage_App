@@ -1,6 +1,6 @@
-# FireCage
-
 ![FireCage](https://github.com/resistory82/FireCage_App/blob/main/resources/FirecageBanner1280x640.png)
+
+# FireCage
 
 **FireCage** dient als offline Unerstützung für Höhere Feuerwehrführer oder Einsatzleitern in stressigen Einsatz-Szenarien.
 
@@ -11,20 +11,26 @@
 
 ## Funktionalität und Motivation
 
-**FireCage** wurde als Idee geboren Höheren Feuerwehrführern, Zugs- Gruppenkommandanten und Einsatzleitungen ein Tool zu bieten das schnell, effektiv und vorrangig offline verschiedenste Einsatz-Szenarien überwachen,auswerten und aufzeichnen kann.
+**FireCage** wurde als Idee geboren höheren Feuerwehrführern, Zugs-, Gruppenkommandanten und Einsatzleitungen ein Tool zu bieten das schnell, effektiv und vorrangig offline verschiedenste Einsatz-Szenarien überwachen, auswerten und aufzeichnen kann.
 
 Derzeit befinden wir uns noch in der Aufbauphase und sammeln noch Ideen und bereiten die Codebase mit den bereits bestehenden Modulen für die Production vor.
 
-Das *Primäre* Ziel von Firecage ist es beste Software für die Freiwilligen Feuerwehren in Österreich Kostenlos und Quelloffen für jeden zur Verfügung zu stellen.
-Und Jeder Kann mitanpacken. Egal ob erfahrener Programmierer oder als Feuerwehrmitglied mit tollen Ideen und Verbesserungsvorschlägen. Jeder kann seinen Teil dazu beitragen.
+Das *Primäre* Ziel von FireCage ist es qualitativ hochwertige Software für die Freiwilligen Feuerwehren in Österreich **Kostenlos** und **Quelloffen** zur Verfügung zu stellen.
+Und jeder kann mitanpacken. Egal ob erfahrener DART / RUST Entwickler oder als Feuerwehrmitglied mit tollen Ideen und Verbesserungsvorschlägen. Jeder kann seinen Teil dazu beitragen.
 
-Zudem werden in naher Zukunft noch Testfeuerwehren gesucht die die *Alpha* Version von **FireCage** austesten möchten.
+Zudem werden in naher Zukunft noch Testfeuerwehren gesucht welche die *Alpha* Version von **FireCage** austesten möchten.
 
-## Funktionen Übersicht
+## Funktionen / Module
 
 |           Module              | Funktionalität |  Modul Version  |      Status       |
 |-------------------------------|----------------|-----------------|-------------------|
-| Atemschutzüberwachung einfach |                |     V0.0.0      |     in Arbeit     |
+| Atemschutzüberwachung einfach | Kleine Atemschutzüberwachung für einen Trupp (für Übungen und Leistungsbewerbe ausgelegt)         |V0.0.0|     in Arbeit   |
+| Atemschutzüberwachung mehrfach |Atemschutzüberwachung von bis zu 4 Trupps im Realeinsatz                                          |V0.0.0|     geplant     |
+| Wasserverbraucherberechnung|Berechnung von Restwasser im Fahrzeug aufgrund der angeschlossenene Verbraucher                       |V0.0.0|     geplant     |
+| Relaisleitungs auslegung|auslegung von Relaisleitungen mit Tragkraftspritzen und frei konfigurierbaren Pumpen                     |V0.0.0|     geplant     |
+| Personalverwaltung lokal|                                                                                                         |V1.0.0|     aktiv       |
+| Fahrzeugverwaltung lokal|                                                                                                         |V0.0.0|     geplant     |
+| Funktagebuch            |                                                                                                         |V0.0.0|     geplant     |
 
 ## Mitarbeit
 
@@ -33,14 +39,14 @@ Auch gewünschte Erweiterungen oder Ideen können gerne von jedem eingebracht we
 Bitte folgende Regeln beachten:
 
 - Höflicher Umgangston beim diskutieren und einreichen von Ideen
-- Ideen sollen für die Feuerwehren in Ganz Österreich dienlich sein (nicht Bundesländer spezifisch)
+- Ideen sollen für die Feuerwehren in ganz Österreich dienlich sein (nicht Bundesländer spezifisch)
 - Bei Mitarbeit im Code bitte Pullrequests mit möglichst kleinen Änderungsmengen und guter Dokumentation einreichen.
 
-Für detailiertere Informationen bitte die [CONTRIBUTING.md](https://github.com/resistory82/FireCage_App?tab=contributing-ov-file) Datei öffnen.
+Für detailiertere Informationen bitte den [CONTRIBUTING.md](https://github.com/resistory82/FireCage_App?tab=contributing-ov-file) Abschnitt öffnen.
 
 ## Zukünftig geplante Erweiterungen
 
-Derzeit sind noch keine groben Sprünge geplant. Primäres Ziel ist es derzeit die oben genannten Module zu erweitern und zu verbessern.
+Derzeit sind noch keine groben Sprünge geplant. Primäres Ziel ist es derzeit die oben genannten Module zu implementieren und zu verbessern.
 
 ## Opensource Lizenz
 
