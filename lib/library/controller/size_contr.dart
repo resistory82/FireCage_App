@@ -35,7 +35,7 @@ class SizeController{
         actDeviceHeight = getHeight();
         menubarBottomHeight = MediaQuery.of(_context).padding.bottom;
         menubarTopHeight = MediaQuery.of(_context).padding.top;
-        print("Device Settings -> Height: $actDeviceHeight; Width: $actDeviceWidth; TopBar: $menubarTopHeight; BottomBar: $menubarBottomHeight");
+        //print("Device Settings -> Height: $actDeviceHeight; Width: $actDeviceWidth; TopBar: $menubarTopHeight; BottomBar: $menubarBottomHeight");
     }
     
     double getWidth() { return MediaQuery.of(_context).size.width;}
@@ -53,14 +53,24 @@ class SizeController{
         return (actDeviceHeight - (menubarBottomHeight + appbarHeight) ) * (percentage / 100);
     }
 
-    double clamp(double minFonstsize, double respFonsizePerc, double maxFonsize){
+    double wd(double widthpercentage){
+        return actDeviceWidth * (widthpercentage / 100);
+    }
+
+    double wh(double heigthpercentage) {
+        return (actDeviceHeight * (heigthpercentage / 100));
+    }
+
+
+
+    /*double clamp(double minFonstsize, double respFonsizePerc, double maxFonsize){
 
         double resp = setWidthPerc(respFonsizePerc);
 
         if((resp<maxFonsize) && (resp>minFonstsize))    {return resp;}
         else if(resp>maxFonsize)                        {return maxFonsize;}
         else                                            {return minFonstsize;}
-    }
+    }*/
 
 
 
@@ -113,39 +123,6 @@ class SizeController{
     double getAspectRatio() {
         return getWidth() / getHeight();
     }
-
-    //Screen size categories
-    /*bool isSmallScreen() {
-        return getWidth() < 600 || getHeight() < 600;
-    }
-
-    bool isLargeScreen() {
-        return getWidth() >= 600 && getHeight() >= 600;
-    }
-
-    bool isExtraLargeScreen() {
-        return getWidth() >= 1200 && getHeight() >= 1200;
-    }
-
-    bool isMediumScreen() {
-        return getWidth() >= 800 && getHeight() >= 800 && !isLargeScreen();
-    }
-
-    bool isCompactScreen() {
-        return getWidth() < 400 || getHeight() < 400;
-    }
-
-    bool isWideScreen() {
-        return getWidth() > 1200 || getHeight() > 1200;
-    }
-
-    bool isNarrowScreen() {
-        return getWidth() < 800 || getHeight() < 800;
-    }
-
-    bool isSquareScreen() {
-        return getWidth() == getHeight();
-    }*/
 
     // Get the current device pixel ratio
     double getDevicePixelRatio() {

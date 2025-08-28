@@ -3,13 +3,16 @@ import 'package:flutter/widgets.dart';
 
 import 'package:firecage_dart/project/global/gobal_var.dart';
 
-
-
+double clamp(double minvalue,double value, double maxvalue){
+    if((value<maxvalue) && (value>minvalue))    {return value;}
+    else if(minvalue>maxvalue)                  {return maxvalue;}
+    else                                        {return minvalue;}
+}
 
 
 class AppTheme{
 
-  AppTheme._();
+    AppTheme._();
   
   
     static const Color RichBlack   = const Color(0xFF0D1B2A);
@@ -30,10 +33,11 @@ class AppTheme{
 
     static const String fontName = 'WorkSans';
 
+    ///------------------TextStyles-----------------
     TextStyle light_h1 = TextStyle( // h1 -> display1
         fontFamily: fontName,
         fontWeight: FontWeight.bold,
-        fontSize: SZ.clamp(1,5,8),
+        fontSize: clamp(1,5,8),
         letterSpacing: 0.4,
         height: 0.9,
         color: Foreg3,
